@@ -119,7 +119,7 @@ Coordinates and dimensions are specified in feet relative to the building footpr
 
 ## 📸 Project Screenshots
 
-Screenshots of the working application will be added here.
+![PlotVision AI v5.0 - 3D Building Design](Code_Generated_Image.jpg)
 
 ## ⚠️ Project Scope & Limitations
 
